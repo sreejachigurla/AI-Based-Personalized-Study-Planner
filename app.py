@@ -140,7 +140,7 @@ section[data-testid="stMain"] { background-color: #080c14 !important; }
 """, unsafe_allow_html=True)
 
 # ---------- GROQ ----------
-client_groq = Groq(api_key="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")
+client_groq = Groq(api_key="Ypur_API_KEY")
 
 # ---------- DATABASE ----------
 # (must be before email functions so users_col is available)
