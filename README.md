@@ -73,15 +73,9 @@ API_KEY=your_api_key_here
 
 ---
 
-## 📸 Screenshots
-
-*Add screenshots of your project here (recommended for better presentation)*
-
----
 
 ## 🎯 Future Enhancements
 
-* Add user authentication system
 * Deploy on cloud (AWS/Heroku)
 * Improve ML model accuracy
 * Add real-time analytics dashboard
